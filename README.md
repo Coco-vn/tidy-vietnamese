@@ -53,7 +53,7 @@ S5 收束 (节 28-30)      →  旅行 5 日模拟 / 商务寒暄 / 毕业自测
 ### 进度
 
 - [x] 教材设计（PRD + 30 节计划 + 5 周 roadmap）
-- [ ] 第 1-6 节 S1 启航（W5 完稿）
+- [ ] 第 1-6 节 S1 启航（W5 完稿）— 已完成 1 / 2 / 3 节 + 节 5 引流版
 - [ ] 第 7-14 节 S2 入门（W4-W5 完稿）
 - [ ] 第 15-22 节 S3 进阶（W3-W4 完稿）
 - [ ] 第 23-27 节 S4 实战（W2-W3 完稿）
@@ -67,6 +67,8 @@ S5 收束 (节 28-30)      →  旅行 5 日模拟 / 商务寒暄 / 毕业自测
 | 章节 | 标题 | 状态 |
 |---|---|:---:|
 | [第 1 节](lessons/01-gioi-thieu-bang-chu-cai.md) | 越南语简介 + 字母表 | ✅ 已发布 |
+| [第 2 节](lessons/02-thanh-dieu.md) | 6 个声调 + 调号书写 | ✅ 已发布 |
+| [第 3 节](lessons/03-nguyen-am.md) | 4 个汉越元音（ư / ơ / â / ă）| ✅ 已发布 |
 | [第 5 节（引流版）](lessons/05-chao-hoi-promo.md) | 打招呼 + 自我介绍 | ✅ 已发布 |
 
 ### 反馈与勘误
@@ -155,7 +157,7 @@ After 30 lessons, your Vietnamese reaches **CEFR A1** — enough for travel and 
 ### Progress
 
 - [x] Textbook design (PRD + 30-lesson plan + 5-week roadmap)
-- [ ] Lessons 1-6 Stage 1 (W5)
+- [ ] Lessons 1-6 Stage 1 (W5) — Lessons 1 / 2 / 3 + Lesson 5 promo done
 - [ ] Lessons 7-14 Stage 2 (W4-W5)
 - [ ] Lessons 15-22 Stage 3 (W3-W4)
 - [ ] Lessons 23-27 Stage 4 (W2-W3)
